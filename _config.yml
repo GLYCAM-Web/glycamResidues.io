@@ -1,0 +1,9 @@
+gems:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+url: glycam-web.github.io
+baseurl: /glycamResidues.io/
