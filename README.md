@@ -2,5 +2,8 @@
 A repository of PDB files for each GLYCAM residue currently supported by GMML.
 ## Files:
 ![0kBoriginal]({{'structures/0kB_original.pdb' | relative_url }})
+
+![0kB](structures/0kB.pdb)
+
 ![MolStar](https://molstar.org/viewer/?structure-url=https://glycam-web.github.io/glycamResidues.io/structures/0kB_original.pdb&structure-url-format=pdb)
 
